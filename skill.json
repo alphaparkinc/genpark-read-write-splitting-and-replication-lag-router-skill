@@ -1,0 +1,11 @@
+{
+  "name": "genpark-read-write-splitting-and-replication-lag-router-skill",
+  "version": "1.0.0",
+  "description": "Automatically routes queries to read replicas or master nodes based on AST query type and dynamically throttles stale reads under replication lag",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
